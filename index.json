@@ -1,0 +1,11 @@
+{
+  "org": "flutter",
+  "repo": "agent-plugins",
+  "versions": [
+    {
+      "commit": "b7d5a0be4195b82fe073620fb52f594b0809eacf",
+      "tag": "codex-plugin-v1.0.7",
+      "parsed_at": "2026-11-10T03:00:18.702036+00:00"
+    }
+  ]
+}
